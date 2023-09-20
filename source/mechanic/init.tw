@@ -1,0 +1,4 @@
+::Init
+<<set $name to "Unknown">>\
+<<set $location to "Unknown">>\
+<<set $age to 18>>\

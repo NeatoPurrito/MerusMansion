@@ -1,0 +1,25 @@
+::StoryTitle
+Meru's Mansion
+
+:: StoryData
+{
+        "ifid": "2CFD308A-E7FC-4F4C-B3FF-54376463CAE4"
+}
+
+:: StoryBanner
+<img src="your-image-url-here" width="64" height="64">
+
+:: StorySubtitle
+A spooky Adventure!
+
+::StoryCaption
+Name: $name
+Location: $location
+Money: $money
+
+::Start
+<<include "Init">>\
+The story begins here.
+
+Test1
+[[Go to the Foyer|Foyer]]
